@@ -1,6 +1,6 @@
 {
   "esp_version": "1.1",
-  "esp_firmware_url": "https://github.com/your/repo/esp32_firmware.bin",
+  "esp_firmware_url": "https://github.com/your/repo/update.bin",
   "stm_version": "1.2",
-  "stm_firmware_url": "https://github.com/your/repo/stm32_firmware.bin"
+  "stm_firmware_url": "https://github.com/your/repo/updateSTM.bin"
 }
