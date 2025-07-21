@@ -1,6 +1,6 @@
 {
   "esp_version": "1.2",
-  "esp_firmware_url": "https://github.com/your/repo/update.bin",
+  "esp_firmware_url": "https://github.com/YousefMostafaElnopy/ZeroCarbon/main/update.bin",
   "stm_version": "1.2",
-  "stm_firmware_url": "https://github.com/your/repo/updateSTM.bin"
+  "stm_firmware_url": "  https://github.com/YousefMostafaElnopy/ZeroCarbon/main/updateSTM.bin"
 }
