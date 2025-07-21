@@ -1,5 +1,5 @@
 {
-  "esp_version": "1.1",
+  "esp_version": "1.2",
   "esp_firmware_url": "https://github.com/your/repo/update.bin",
   "stm_version": "1.2",
   "stm_firmware_url": "https://github.com/your/repo/updateSTM.bin"
